@@ -1,0 +1,17 @@
+﻿{
+	"methods": {
+		"TEST": {
+			"timeStamp": "2021-07-06T07:27:02.339Z"
+		},
+		"Method2": {
+			"timeStamp": "2021-07-06T07:24:39.765Z",
+			"attributes": {
+				"invisible": true,
+				"publishedWeb": true
+			}
+		},
+		"Compiler_Web": {
+			"timeStamp": "2021-07-06T07:35:37.668Z"
+		}
+	}
+}
